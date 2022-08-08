@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster&family=The+Nautigal&display=swap');
+
+.header-h1{
+    font-family: 'Dancing Script', cursive;
+}
+
+.p-amount{
+    font-family: cursive;
+    font-size: 20px;
+    
+}
+
+h3{
+    font-family: 'lora';
+}
+
+.add-btn{
+    margin-left: 45%;
+    margin-bottom: 10%;
+}
